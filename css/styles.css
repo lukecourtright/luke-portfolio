@@ -35,7 +35,7 @@ h1, h2, h3 {
   z-index: 10;
 }
 
-.brand-mark { color: var(--color-primary); display: inline-flex; }
+.brand-mark { display: inline-flex; }
 .brand-mark img { display: block; }
 
 .site-nav {
@@ -70,7 +70,6 @@ h1, h2, h3 {
 }
 
 .hero__crest {
-  color: var(--color-primary);
   margin-bottom: 1.5rem;
 }
 
