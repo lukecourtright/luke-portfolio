@@ -74,7 +74,7 @@ h1, h2, h3 {
 }
 
 [data-theme="dark"] .hero__crest {
-  filter: drop-shadow(var(--glow-primary));
+  filter: drop-shadow(0 0 1px rgba(20,207,207,.9)) drop-shadow(var(--glow-primary));
 }
 
 .hero__name {
